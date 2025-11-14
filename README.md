@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=10&height=200&text=Mingyu's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyu1715)](https://github.com/mingyu1715/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mingyu1715)](https://solved.ac/mingyu1715)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=mingyu1715&theme=dark)
 <!--
 **mingyu1715/mingyu1715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
