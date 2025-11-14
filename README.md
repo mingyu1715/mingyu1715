@@ -1,10 +1,14 @@
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 나는 집에 가고 싶다 </h2>  
-<div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 졸려요 </div> 
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; text-align: center;"> 나는 집에 가고 싶다 </h2>  
+  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 졸려요 </div> 
 </div>
 
+<br>
+
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br>
-  <div style="margin: 0 auto; text-align: center;" align="center"> 
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; text-align: center;"> 🛠️ Tech Stacks </h2> 
+  <br>
+  <div style="margin: 0 auto; text-align: center;"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -17,9 +21,12 @@
   </div>
 </div>
 
+<br>
+
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-  <div align="center"> 
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; text-align: center;"> 🧑‍💻 Contact me </h2> 
+  <br> 
+  <div> 
     <a href="https://www.notion.so/mingyu1715/">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     </a>
@@ -34,16 +41,13 @@
     </a>
   </div>  
   <br> 
-  <div align="center">
-    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingyu1715%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-    </a>
-  </div> 
 </div>
 
+<br>
+
 <div align="center"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-  <div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; text-align: center;"> 🏅 Stats </h2>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyu1715&layout=compact&bg_color=180,0d0d0d,00000000&title_color=ffffff&text_color=ffffff"/>
   </div> 
   <br>
@@ -53,20 +57,3 @@
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=mingyu1715" alt="Solved.ac Profile">
   </a>
 </div>
-
-    
-
-<!--
-**mingyu1715/mingyu1715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
